@@ -1,5 +1,5 @@
 {
-  "name": "Deploy documentation workflow",
+  "name": "Deploy documentation on GitHub pages",
   "description": "Build and deploy documentation on GitHub pages",
   "iconName": "js",
   "categories": ["JavaScript"],

@@ -1,5 +1,5 @@
 {
-  "name": "Deploy on lactame.com workflow",
+  "name": "Deploy on lactame.com",
   "description": "Build and deploy library on lactame.com",
   "iconName": "js",
   "categories": ["JavaScript", "TypeScript"],
