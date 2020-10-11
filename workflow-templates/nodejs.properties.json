@@ -1,0 +1,7 @@
+{
+  "name": "Node.js workflow",
+  "description": "Run linter and tests for a Node.js project",
+  "iconName": "todo",
+  "categories": ["JavaScript", "TypeScript"],
+  "filePatterns": ["package.json$"]
+}

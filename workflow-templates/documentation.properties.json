@@ -1,0 +1,7 @@
+{
+  "name": "Deploy documentation workflow",
+  "description": "Build and deploy documentation on GitHub pages",
+  "iconName": "todo",
+  "categories": ["JavaScript"],
+  "filePatterns": ["package.json$"]
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Release workflow",
+  "description": "Run release-please to automatically open release pull requests and publish releases to GitHub and npm",
+  "iconName": "todo",
+  "categories": ["JavaScript", "TypeScript"],
+  "filePatterns": ["package.json$"]
+}
