@@ -1,7 +1,7 @@
 {
   "name": "Deploy on lactame.com workflow",
   "description": "Build and deploy library on lactame.com",
-  "iconName": "todo",
+  "iconName": "js",
   "categories": ["JavaScript", "TypeScript"],
   "filePatterns": ["package.json$"]
 }
